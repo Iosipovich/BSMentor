@@ -1,0 +1,53 @@
+:root {
+  --black: #0a0e14;
+  --white: #d7dce3;
+  --yellow: #f5da7c;
+}
+
+.opacity-50 {
+  opacity: 0.5;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+/* font color */
+.fcolor-b {
+  color: var(--black);
+}
+
+.fcolor-w {
+  color: var(--white);
+}
+
+.fcolor-y {
+  color: var(--yellow);
+}
+
+/* font size */
+.fsize-40 {
+  font-size: 40px;
+}
+
+.fsize-30 {
+  font-size: 30px;
+}
+
+.fsize-35 {
+  font-size: 35px;
+}
+
+/* font */
+.museomoderno {
+  font-family: "MuseoModerno", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
